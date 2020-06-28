@@ -1,0 +1,54 @@
+body{
+    font-family: 'Balsamiq Sans', cursive;
+}
+header, footer{
+    background-color: rgb(51, 51, 51);
+    color: rgb(194, 194, 194);
+    padding: 10px;
+    text-align: center;
+}
+aside{
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    padding: 40px;
+}
+.range-list {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.range-list h4{
+    color:rgb(100, 18, 18);
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.range-title {
+    
+    color:rgb(66, 57, 57);
+}
+.sports-title {
+    
+    color:rgb(66, 57, 57);
+}
+.sports-list {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .sports-list h6{
+        color:rgb(100, 18, 18);
+        padding-bottom: 20px;
+        font-weight: bold;}
+article>h1,h2{
+    text-align: center;
+    color: rgb(119, 119, 255);
+}
+article> p{
+    text-align: center;
+}
+.col-sm-2 {
+    -moz-hyphens:auto;
+    -ms-hyphens:auto;
+    -webkit-hyphens:auto;
+    hyphens:auto;
+    word-wrap:break-word;
+ }
+ 
